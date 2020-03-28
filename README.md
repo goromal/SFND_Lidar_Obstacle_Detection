@@ -29,3 +29,9 @@ A few updates to the instructions above were needed.
 * BUILD_visualization needed to be manually turned on, this link shows you how to do that,
 http://www.pointclouds.org/documentation/tutorials/building_pcl.php
 
+### Linux Ubuntu 18
+
+```
+sudo apt install libpcl-dev
+```
+
